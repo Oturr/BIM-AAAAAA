@@ -1,0 +1,2472 @@
+fileFormatVersion: 2
+guid: 7a32cc38bfc5c8a40a6953438bc34b06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 781617948908410248
+    second: podstolom_0
+  - first:
+      213: -2925320901975590995
+    second: podstolom_1
+  - first:
+      213: -5584210620625637773
+    second: podstolom_2
+  - first:
+      213: -8620239371176952871
+    second: podstolom_3
+  - first:
+      213: 7435502048392168493
+    second: podstolom_4
+  - first:
+      213: -1672165387371054990
+    second: podstolom_5
+  - first:
+      213: -4737051392529741451
+    second: podstolom_6
+  - first:
+      213: 6001833059397117351
+    second: podstolom_7
+  - first:
+      213: 5372710692243496672
+    second: podstolom_8
+  - first:
+      213: -3074326961136640810
+    second: podstolom_9
+  - first:
+      213: -6721261071964751902
+    second: podstolom_10
+  - first:
+      213: -3460832317691418444
+    second: podstolom_11
+  - first:
+      213: -5301655705936807936
+    second: podstolom_12
+  - first:
+      213: -3378961174993472716
+    second: podstolom_13
+  - first:
+      213: 3265034550903268524
+    second: podstolom_14
+  - first:
+      213: -2873186931004451484
+    second: podstolom_15
+  - first:
+      213: 526876305219574728
+    second: podstolom_16
+  - first:
+      213: -1662697252962554596
+    second: podstolom_17
+  - first:
+      213: -3349564045501736399
+    second: podstolom_18
+  - first:
+      213: -6669051929529954582
+    second: podstolom_19
+  - first:
+      213: -1964028724738544619
+    second: podstolom_20
+  - first:
+      213: -4668709529450656595
+    second: podstolom_21
+  - first:
+      213: -222476792517409
+    second: podstolom_22
+  - first:
+      213: 2115816061410004263
+    second: podstolom_23
+  - first:
+      213: -5609977188278813148
+    second: podstolom_24
+  - first:
+      213: 8075057889534247821
+    second: podstolom_25
+  - first:
+      213: 8287376513978630499
+    second: podstolom_26
+  - first:
+      213: -2489780716250785895
+    second: podstolom_27
+  - first:
+      213: -3904699096004544722
+    second: podstolom_28
+  - first:
+      213: -4429569036476286335
+    second: podstolom_29
+  - first:
+      213: -1275889794036899629
+    second: podstolom_30
+  - first:
+      213: 2395780831815752463
+    second: podstolom_31
+  - first:
+      213: 1452385949656140624
+    second: podstolom_32
+  - first:
+      213: -8278097386460331536
+    second: podstolom_33
+  - first:
+      213: -3821163607055614109
+    second: podstolom_34
+  - first:
+      213: 9162731744391238863
+    second: podstolom_35
+  - first:
+      213: 7127091184036101690
+    second: podstolom_36
+  - first:
+      213: 9039466274210545452
+    second: podstolom_37
+  - first:
+      213: 6339096046664006882
+    second: podstolom_38
+  - first:
+      213: 2178705248298565570
+    second: podstolom_39
+  - first:
+      213: 5476816947633445433
+    second: podstolom_40
+  - first:
+      213: -1611160147837310851
+    second: podstolom_41
+  - first:
+      213: 4115896231826254143
+    second: podstolom_42
+  - first:
+      213: -4159674315279062695
+    second: podstolom_43
+  - first:
+      213: -2895497961861572789
+    second: podstolom_44
+  - first:
+      213: 4159794130977632071
+    second: podstolom_45
+  - first:
+      213: 7025291883413234881
+    second: podstolom_46
+  - first:
+      213: -1835881616710732540
+    second: podstolom_47
+  - first:
+      213: 8624679892543523349
+    second: podstolom_48
+  - first:
+      213: 5388892068228565276
+    second: podstolom_49
+  - first:
+      213: 9057334089982948845
+    second: podstolom_50
+  - first:
+      213: -3280255905481771980
+    second: podstolom_51
+  - first:
+      213: 2121923966102936046
+    second: podstolom_52
+  - first:
+      213: -8824909422363093651
+    second: podstolom_53
+  - first:
+      213: 8890697216475900275
+    second: podstolom_54
+  - first:
+      213: -3914494042481711168
+    second: podstolom_55
+  - first:
+      213: -6749606576666665638
+    second: podstolom_56
+  - first:
+      213: -1116490871795020776
+    second: podstolom_57
+  - first:
+      213: -3698638709237715268
+    second: podstolom_58
+  - first:
+      213: -4768305867600926261
+    second: podstolom_59
+  - first:
+      213: 5926384971214779201
+    second: podstolom_60
+  - first:
+      213: -2242297810353670873
+    second: podstolom_61
+  - first:
+      213: -6778407201141538388
+    second: podstolom_62
+  - first:
+      213: 7345783497306748720
+    second: podstolom_63
+  - first:
+      213: -3801877066020491949
+    second: podstolom_64
+  - first:
+      213: -8226109899763900415
+    second: podstolom_65
+  - first:
+      213: -7950761201161926975
+    second: podstolom_66
+  - first:
+      213: 2531506701405420537
+    second: podstolom_67
+  - first:
+      213: -3601421308851498240
+    second: podstolom_68
+  - first:
+      213: -8323371183626962727
+    second: podstolom_69
+  - first:
+      213: 6024405280210693133
+    second: podstolom_70
+  - first:
+      213: -343529930532314796
+    second: podstolom_71
+  - first:
+      213: -5747277377313565165
+    second: podstolom_72
+  - first:
+      213: -6975255529234042986
+    second: podstolom_73
+  - first:
+      213: 1945225609691393671
+    second: podstolom_74
+  - first:
+      213: -5571052751234482361
+    second: podstolom_75
+  - first:
+      213: 1253087514401493556
+    second: podstolom_76
+  - first:
+      213: -3334137428186538816
+    second: podstolom_77
+  - first:
+      213: -3081150947052572310
+    second: podstolom_78
+  - first:
+      213: 4822933651407313640
+    second: podstolom_79
+  - first:
+      213: 6744563044901533059
+    second: podstolom_80
+  - first:
+      213: 8874562007409773273
+    second: podstolom_81
+  - first:
+      213: 3062603915921352819
+    second: podstolom_82
+  - first:
+      213: 7561958399507972706
+    second: podstolom_83
+  - first:
+      213: 72297090083501334
+    second: podstolom_84
+  - first:
+      213: 3537686722855808676
+    second: podstolom_85
+  - first:
+      213: 406533138344327278
+    second: podstolom_86
+  - first:
+      213: 4240962553384304333
+    second: podstolom_87
+  - first:
+      213: -383307765046901824
+    second: podstolom_88
+  - first:
+      213: 8276949874712868238
+    second: podstolom_89
+  - first:
+      213: -6367751147047401157
+    second: podstolom_90
+  - first:
+      213: 8665245377066805299
+    second: podstolom_91
+  - first:
+      213: 262298141002700025
+    second: podstolom_92
+  - first:
+      213: 8147294451225521045
+    second: podstolom_93
+  - first:
+      213: 667801140879236594
+    second: podstolom_94
+  - first:
+      213: -7795949289611967408
+    second: podstolom_95
+  - first:
+      213: -7919733518148296982
+    second: podstolom_96
+  - first:
+      213: 6154303436033428292
+    second: podstolom_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: podstolom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3978
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88551c2226dd8da00800000000000000
+      internalID: 781617948908410248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3978
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da738bf732c2767d0800000000000000
+      internalID: -2925320901975590995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_2
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 3978
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e25a6e606e082b0800000000000000
+      internalID: -5584210620625637773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_3
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 3978
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db3922c6f1ce5880800000000000000
+      internalID: -8620239371176952871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_4
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3978
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24ca11d7b5303760800000000000000
+      internalID: 7435502048392168493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_5
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3978
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2787b0090764bc8e0800000000000000
+      internalID: -1672165387371054990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_6
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 3978
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579ce714bdc924eb0800000000000000
+      internalID: -4737051392529741451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3672
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5af825e5bca4350800000000000000
+      internalID: 6001833059397117351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3672
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eedd14a8e3bf8a40800000000000000
+      internalID: 5372710692243496672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_9
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 3672
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc5b06daebc555d0800000000000000
+      internalID: -3074326961136640810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_10
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 3672
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e731e27aa849b2a0800000000000000
+      internalID: -6721261071964751902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_11
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3672
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8afc4e757a8ffc0800000000000000
+      internalID: -3460832317691418444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_12
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3672
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008b63e893cbc66b0800000000000000
+      internalID: -5301655705936807936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_13
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 3672
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4337daeb6b48b11d0800000000000000
+      internalID: -3378961174993472716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3366
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca467f900abbf4d20800000000000000
+      internalID: 3265034550903268524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_15
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3366
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4655f2485b36028d0800000000000000
+      internalID: -2873186931004451484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_16
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 3366
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbde254537df4700800000000000000
+      internalID: 526876305219574728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_17
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 3366
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d262468a9ece8e0800000000000000
+      internalID: -1662697252962554596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_18
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3366
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ad2735f35f381d0800000000000000
+      internalID: -3349564045501736399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_19
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3366
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeecbbfaa94c273a0800000000000000
+      internalID: -6669051929529954582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_20
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 3366
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cab4dd74e5eb4e0800000000000000
+      internalID: -1964028724738544619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3060
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daccc993b69653fb0800000000000000
+      internalID: -4668709529450656595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_22
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3060
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcafc598a53ffff0800000000000000
+      internalID: -222476792517409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_23
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 3060
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dc86e6f73ec5d10800000000000000
+      internalID: 2115816061410004263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_24
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 3060
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eb89e587b5522b0800000000000000
+      internalID: -5609977188278813148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_25
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3060
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d838766fd5e501070800000000000000
+      internalID: 8075057889534247821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_26
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3060
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3618c93f70da20370800000000000000
+      internalID: 8287376513978630499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_27
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 3060
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997114741a5827dd0800000000000000
+      internalID: -2489780716250785895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2754
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e273cd33cd8bfc9c0800000000000000
+      internalID: -3904699096004544722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2754
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18af2c02e620782c0800000000000000
+      internalID: -4429569036476286335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_30
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2754
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d062e50ef02b4ee0800000000000000
+      internalID: -1275889794036899629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_31
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2754
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b511029f58f3120800000000000000
+      internalID: 2395780831815752463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_32
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2754
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bc50e7359e72410800000000000000
+      internalID: 1452385949656140624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_33
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2754
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f141f7494a4e1d80800000000000000
+      internalID: -8278097386460331536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_34
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2754
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fbcccd1ff78fac0800000000000000
+      internalID: -3821163607055614109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2448
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc492aca9ff882f70800000000000000
+      internalID: 9162731744391238863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_36
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2448
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e3a42cba388e260800000000000000
+      internalID: 7127091184036101690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_37
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2448
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f7179eea2a27d70800000000000000
+      internalID: 9039466274210545452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_38
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2448
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecbd7ab44ef8f750800000000000000
+      internalID: 6339096046664006882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_39
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2448
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf7d1b41e05c3e10800000000000000
+      internalID: 2178705248298565570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_40
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2448
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ad7871fff810c40800000000000000
+      internalID: 5476816947633445433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_41
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2448
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7824efb16204a9e0800000000000000
+      internalID: -1611160147837310851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2142
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f396f5ed0d99e1930800000000000000
+      internalID: 4115896231826254143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_43
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2142
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959a978cf3ed546c0800000000000000
+      internalID: -4159674315279062695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_44
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2142
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b479f57d1ff11d7d0800000000000000
+      internalID: -2895497961861572789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_45
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2142
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f2dabf8be8ab930800000000000000
+      internalID: 4159794130977632071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_46
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2142
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4e7421fb9de7160800000000000000
+      internalID: 7025291883413234881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_47
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2142
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40579428563a586e0800000000000000
+      internalID: -1835881616710732540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_48
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2142
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ac280baa401b770800000000000000
+      internalID: 8624679892543523349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1836
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c190fa3d8c039ca40800000000000000
+      internalID: 5388892068228565276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_50
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1836
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de53875fd5d12bd70800000000000000
+      internalID: 9057334089982948845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_51
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1836
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434b16d22a03a72d0800000000000000
+      internalID: -3280255905481771980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_52
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1836
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee914ffca96927d10800000000000000
+      internalID: 2121923966102936046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_53
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1836
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65dc0103af978580800000000000000
+      internalID: -8824909422363093651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_54
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1836
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379a991730a126b70800000000000000
+      internalID: 8890697216475900275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_55
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1836
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7ae72886ceca9c0800000000000000
+      internalID: -3914494042481711168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1530
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d942854949452a0800000000000000
+      internalID: -6749606576666665638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_57
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1530
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c01bfa77d6180f0800000000000000
+      internalID: -1116490871795020776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_58
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1530
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe606fa0bbcbacc0800000000000000
+      internalID: -3698638709237715268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_59
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1530
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc96c35b31393ddb0800000000000000
+      internalID: -4768305867600926261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_60
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1530
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14378736bbfbe3250800000000000000
+      internalID: 5926384971214779201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_61
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1530
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725bb3d8502c1e0e0800000000000000
+      internalID: -2242297810353670873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_62
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1530
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1420960924ee1a0800000000000000
+      internalID: -6778407201141538388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03735e1db2771f560800000000000000
+      internalID: 7345783497306748720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_64
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1224
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35de420a3f40d3bc0800000000000000
+      internalID: -3801877066020491949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_65
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1224
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100af3541acf6dd80800000000000000
+      internalID: -8226109899763900415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_66
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1224
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c609ceffc839a190800000000000000
+      internalID: -7950761201161926975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_67
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1224
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb7ac3bee7b12320800000000000000
+      internalID: 2531506701405420537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_68
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1224
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0035267966e250ec0800000000000000
+      internalID: -3601421308851498240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_69
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1224
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d83132f1027d7c80800000000000000
+      internalID: -8323371183626962727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c22f50facfa9350800000000000000
+      internalID: 6024405280210693133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_71
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 918
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45128e829598b3bf0800000000000000
+      internalID: -343529930532314796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_72
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 918
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316169bfca19d30b0800000000000000
+      internalID: -5747277377313565165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_73
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 918
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fec6a7d0ae23f90800000000000000
+      internalID: -6975255529234042986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_74
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 918
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ee5a1c264defa10800000000000000
+      internalID: 1945225609691393671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_75
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 918
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fb4b91a05afa2b0800000000000000
+      internalID: -5571052751234482361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_76
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 918
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432d068847cd36110800000000000000
+      internalID: 1253087514401493556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc5b909ca3cab1d0800000000000000
+      internalID: -3334137428186538816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_78
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 612
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61b29dc98d8d35d0800000000000000
+      internalID: -3081150947052572310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_79
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 612
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea196b5a908ee240800000000000000
+      internalID: 4822933651407313640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_80
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 612
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3853598ea50899d50800000000000000
+      internalID: 6744563044901533059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_81
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 612
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da46d45027c82b70800000000000000
+      internalID: 8874562007409773273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_82
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 612
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3786630090e808a20800000000000000
+      internalID: 3062603915921352819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_83
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 612
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26244f0791971f860800000000000000
+      internalID: 7561958399507972706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615b8b402d9d00100800000000000000
+      internalID: 72297090083501334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_85
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 306
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeaf6ab453681130800000000000000
+      internalID: 3537686722855808676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_86
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 306
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6830744cbb44a500800000000000000
+      internalID: 406533138344327278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_87
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 306
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce743409fceada30800000000000000
+      internalID: 4240962553384304333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_88
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 306
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c30bb85e973eaaf0800000000000000
+      internalID: -383307765046901824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_89
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 306
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8579f1de02add270800000000000000
+      internalID: 8276949874712868238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_90
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 306
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39472ec11431a7a0800000000000000
+      internalID: -6367751147047401157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338a9af82c2214870800000000000000
+      internalID: 8665245377066805299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_92
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f416bff4ced3a300800000000000000
+      internalID: 262298141002700025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_93
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59beecd1321011170800000000000000
+      internalID: 8147294451225521045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_94
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd15b67991844900800000000000000
+      internalID: 667801140879236594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_95
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05448b10d693fc390800000000000000
+      internalID: -7795949289611967408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_96
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 0
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee14076354771290800000000000000
+      internalID: -7919733518148296982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podstolom_97
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 0
+        width: 544
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b0db04e5a786550800000000000000
+      internalID: 6154303436033428292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fd7a0d94717dd104ab3e8a74e9b087ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
